@@ -28,7 +28,8 @@ print(B)
 ```
 ## Output:
 
-![](rank%20of%20matrix%20.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/118361409/214041545-38f2d0ec-2339-4adb-bb4f-b43726a691d4.png)
+
 
 ## Result:
 
